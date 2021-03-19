@@ -20,12 +20,12 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
         
 # Features
 
-<img src="https://raw.githubusercontent.com/DJF3/Webex-Virtual-Background-Logo/master/_images/webexlogo_capabilites-1.png" width="600px">
-<img src="https://raw.githubusercontent.com/DJF3/Webex-Virtual-Background-Logo/master/_images/webexlogo_capabilites-2.png" width="600px">
+<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_capabilities-1.png?raw=true" width="600px">
+<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_capabilities-2.png?raw=true" width="600px">
 
 
 # How does it work?
-<img src="https://raw.githubusercontent.com/DJF3/Webex-Virtual-Background-Logo/master/_images/webexlogo_how-1.png" width="600px">
+<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_how-1.png?raw=true" width="600px">
   
 
 # Start
@@ -50,8 +50,8 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 
 # Settings File
 
-<img src="https://raw.githubusercontent.com/DJF3/Webex-Virtual-Background-Logo/master/_images/webexlogo_settings-1.png" width="600px">
-<img src="https://raw.githubusercontent.com/DJF3/Webex-Virtual-Background-Logo/master/_images/webexlogo_settings-2.png" width="600px">
+<img src="https://raw.githubusercontent.com/DJF3/Webex-Virtual-Background-Logo/_images/master/webexlogo_settings-1.png" width="600px">
+<img src="https://raw.githubusercontent.com/DJF3/Webex-Virtual-Background-Logo/_images/master/webexlogo_settings-2.png" width="600px">
 
   
 # Define Logo Area
