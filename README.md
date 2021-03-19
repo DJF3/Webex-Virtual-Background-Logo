@@ -50,13 +50,13 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 
 # Settings File
 
-<img src="https://raw.githubusercontent.com/DJF3/Webex-Virtual-Background-Logo/_images/master/webexlogo_settings-1.png" width="600px">
-<img src="https://raw.githubusercontent.com/DJF3/Webex-Virtual-Background-Logo/_images/master/webexlogo_settings-2.png" width="600px">
+<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_settings-1.png?raw=true" width="600px">
+<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_settings-2.png?raw=true" width="600px">
 
   
 # Define Logo Area
 
-<img src="https://raw.githubusercontent.com/DJF3/Webex-Virtual-Background-Logo/master/_images/webexlogo_settings-3logoarea.png" width="600px">
+<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_settings-3logoarea.png?raw=true" width="600px">
 
 
 # Good to know
