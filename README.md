@@ -3,6 +3,24 @@ Use this script to 'insert' a (customer) logo into an existing virtual backgroun
 
 
 
+# What does it do?
+[![what does it do?](https://i9.ytimg.com/vi/AZGT62IGW50/mqdefault.jpg?time=1616155200000&sqp=CMCk0oIG&rs=AOn4CLDV1wYh7l6akO94xillzCbTAeSTyg)](https://youtu.be/AZGT62IGW50 "Virtual Background Logo")
+
+
+
+<a name="features"/>
+        
+# Features
+
+<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_capabilities-1.png?raw=true" width="600px">
+<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_capabilities-2.png?raw=true" width="600px">
+
+
+# How does it work?
+<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_how-1.png?raw=true" width="600px">
+
+
+
 # REQUIREMENTS
 * A Cisco [Webex Desk Pro](https://www.cisco.com/c/en/us/products/collaboration-endpoints/webex-desk-pro/index.html) video device with a local (user) account.
 * Python 3.x or higher (tested with 3.7.x and 3.9.x)
@@ -16,17 +34,6 @@ TESTED on Mac: Python 3.9.1, requests 2.25.1, pillow 8.1.0
 TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 
 
-<a name="features"/>
-        
-# Features
-
-<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_capabilities-1.png?raw=true" width="600px">
-<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_capabilities-2.png?raw=true" width="600px">
-
-
-# How does it work?
-<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_how-1.png?raw=true" width="600px">
-  
 
 # Start
 
