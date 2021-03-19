@@ -56,7 +56,7 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
   
 # Define Logo Area
 
-<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_settings-3logoarea.png?raw=true" width="600px">
+<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_settings-3logoarea.jpg?raw=true" width="600px">
 
 
 # Good to know
