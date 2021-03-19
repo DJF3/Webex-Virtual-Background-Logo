@@ -6,7 +6,7 @@ Use this script to 'insert' a (customer) logo into an existing virtual backgroun
 # What does it do?
 Click the image below to see a video of this script in action.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![what does it do?](https://i9.ytimg.com/vi/AZGT62IGW50/mqdefault.jpg?time=1616155200000&sqp=CMCk0oIG&rs=AOn4CLDV1wYh7l6akO94xillzCbTAeSTyg)](https://youtu.be/AZGT62IGW50 "Virtual Background Logo")
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![what does it do?](https://i9.ytimg.com/vi/AZGT62IGW50/mqdefault.jpg?time=1616155200000&sqp=CMCk0oIG&rs=AOn4CLDV1wYh7l6akO94xillzCbTAeSTyg)](https://youtu.be/AZGT62IGW50 "Virtual Background Logo"){:target="_blank"}
 
 
 
