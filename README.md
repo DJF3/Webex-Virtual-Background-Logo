@@ -6,7 +6,8 @@ Use this script to 'insert' a (customer) logo into an existing virtual backgroun
 # What does it do?
 Click the image below to see a video of this script in action.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![what does it do?](LINK_TO_IMAGE)](https://youtu.be/3DJwpWS2zoc "Virtual Background Logo")
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/3DJwpWS2zoc"><img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/video-slide1-small.jpg?raw=true" width="400px"></a>
 
 
 <a name="features"/>
@@ -77,3 +78,6 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 * A DeskPro in a Webex Meeting cannot access email addresses of participants. Solution: run script with domain name, logo url, etc.
 * Long URL’s with special characters in it ($,%,&) may need quotes  (python3 webexlogo.py “https://site.com/image?url=longurl”… etc.)
 
+# Support?
+
+Feel free to join this Webex Space that I actively monitor: https://eurl.io/#Tg9_W-C23
