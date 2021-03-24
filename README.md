@@ -7,7 +7,7 @@ Use this script to 'insert' a (customer) logo into an existing virtual backgroun
 Click the image below to see a video of this script in action.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/3DJwpWS2zoc"><img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/video-slide1-small.jpg?raw=true" width="400px"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/3DJwpWS2zoc" target="_blank"><img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/video-slide1-small.jpg?raw=true" width="400px"></a>
 
 
 <a name="features"/>
