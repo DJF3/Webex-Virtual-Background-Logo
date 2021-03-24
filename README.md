@@ -81,3 +81,8 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 # Support?
 
 Feel free to join this Webex Space that I actively monitor: https://eurl.io/#Tg9_W-C23
+
+
+# More like this?
+
+Will be announced in the "Webex Developer" LinkedIn group at: http://cs.co/webexdevlink 
