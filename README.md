@@ -1,9 +1,12 @@
 # Webex-Virtual-Background-Logo
-Use this script to 'insert' a (customer) logo into an existing virtual background.
+Use this script to 'insert' content into a virtual background:
+- insert your customers logo in your virtual background
+- insert text in your virtual background
+- insert an event banner in your virtual background
 
 
 
-# What does it do?
+# Show me how!
 Click the image below to see a video of this script in action.
 
 
@@ -17,6 +20,7 @@ Click the image below to see a video of this script in action.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_capabilities-1.png?raw=true" width="600px">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_capabilities-2.png?raw=true" width="600px">
+
 
 
 # How does it work?
@@ -55,7 +59,7 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
    >      certutil -encode xtoken.txt xtoken.b64 && type xtoken.b64 && del xtoken.*
 7. Create a configuration file by running the Python script. If it doesn't find webexlogo_settings.ini it will create one in the right format.
    > **python webexlogo.py**
-8. Edit webexlogo_config.ini and update parameters as described in the next paragraph. Instructions are also in the .ini file itself.
+8. Edit webexlogo_config.ini and update parameters as described in the next paragraph. Instructions are also in the generated .ini file itself.
 
 
 # Settings File
