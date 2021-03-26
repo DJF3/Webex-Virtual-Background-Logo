@@ -36,7 +36,9 @@ Click the image below to see a video of this script in action.
 * A 'base' image that you want to use as a virtual background.  
 
 TESTED on a Webex Desk Pro: RoomOS 10.2.1, Personal Mode, cloud registered
+
 TESTED on Mac: Python 3.9.1, requests 2.25.1, pillow 8.1.0
+
 TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 
 
@@ -62,16 +64,19 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
    Instructions are also in the generated .ini file itself.
 
 
+
 # Settings File
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_settings-1.png?raw=true" width="600px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_settings-1.png?raw=true" width="520px">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_settings-2.png?raw=true" width="600px">
 
-  
+
+
 # Define Logo Area
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/DJF3/Webex-Virtual-Background-Logo/blob/main/_image/webexlogo_settings-3logoarea.jpg?raw=true" width="600px">
+
 
 
 # Good to know
@@ -80,12 +85,16 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 * If you update an active background, you need to switch to another mode (like ‘Blur’) and back in order to see the changes. 
 * When pulling a list of call participants, it will ignore users with a generic ‘email provider’ domain like hotmail.com, gmail.com, yahoo.com
 * A DeskPro in a Webex Meeting cannot access email addresses of participants. Solution: run script with domain name, logo url, etc.
+* Downloading company logos based on the domain name is done using the Clearbit Logo [API](https://clearbit.com/logo).
 * Long URL’s with special characters in it ($,%,&) may need quotes:  
    ```python3 webexlogo.py “https://site.com/image?url=longurl”```
+
+
 
 # Support?
 
 Feel free to join this Webex Space that I actively monitor: https://eurl.io/#Tg9_W-C23
+
 
 
 # More like this?
