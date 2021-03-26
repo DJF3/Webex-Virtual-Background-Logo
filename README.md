@@ -46,9 +46,9 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 1. Install Python  ([instructions](https://realpython.com/installing-python/))
 2. Install Requests library  ([instructions](https://requests.readthedocs.io/en/master/user/install/))
    > short version: "python3 -m pip install requests"
-4. Install Pillow library  ([instructions](https://pillow.readthedocs.io/en/stable/installation.html))
+3. Install Pillow library  ([instructions](https://pillow.readthedocs.io/en/stable/installation.html))
    > short version: "python3 -m pip install pillow"
-6. Create a base64 login token for API access:
+4. Create a base64 login token for API access:
    > **MAC:** 'echo -n "myusername:mypassword" | base 64'
    > 
    > **WIN:** use an online service like [base64encode.org](https://www.base64encode.org) if you trust them
@@ -56,9 +56,10 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
    > **WIN:** put 'myusername:mypassword' in a file called 'xtoken.txt' and in a command prompt run: 
    > 
    >      certutil -encode xtoken.txt xtoken.b64 && type xtoken.b64 && del xtoken.*
-7. Create a configuration file by running the Python script. If it doesn't find webexlogo_settings.ini it will create one in the right format.
+5. Create a configuration file by running the Python script. If it doesn't find webexlogo_settings.ini it will create one in the right format.
    > **python webexlogo.py**
-8. Edit webexlogo_config.ini and update parameters as described in the next paragraph. Instructions are also in the generated .ini file itself.
+6. Edit webexlogo_config.ini and update parameters as described in the next paragraph. 
+   Instructions are also in the generated .ini file itself.
 
 
 # Settings File
@@ -79,7 +80,8 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 * If you update an active background, you need to switch to another mode (like ‘Blur’) and back in order to see the changes. 
 * When pulling a list of call participants, it will ignore users with a generic ‘email provider’ domain like hotmail.com, gmail.com, yahoo.com
 * A DeskPro in a Webex Meeting cannot access email addresses of participants. Solution: run script with domain name, logo url, etc.
-* Long URL’s with special characters in it ($,%,&) may need quotes  (python3 webexlogo.py “https://site.com/image?url=longurl”… etc.)
+* Long URL’s with special characters in it ($,%,&) may need quotes:  
+   ```python3 webexlogo.py “https://site.com/image?url=longurl”```
 
 # Support?
 
