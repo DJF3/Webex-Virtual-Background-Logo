@@ -86,7 +86,7 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 * When pulling a list of call participants, it will ignore users with a generic ‘email provider’ domain like hotmail.com, gmail.com, yahoo.com
 * A DeskPro in a Webex Meeting cannot access email addresses of participants. Solution: run script with domain name, logo url, etc.
 * Downloading company logos based on the domain name is done using the Clearbit Logo [API](https://clearbit.com/logo).
-* Long URL’s with special characters in it ($,%,&) may need quotes:  
+* Long URLs with special characters in it ($,%,&) may need quotes:  
    ```python3 webexlogo.py “https://site.com/image?url=longurl”```
 * ISSUE: (on Mac): when text contains a questionmark, the Z-shell thinks it has to do something.
 * TIP: if you want to make some notes for yourself in the .ini file, start the line with ';' (semicolon)
