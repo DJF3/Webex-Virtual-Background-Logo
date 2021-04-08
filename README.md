@@ -81,6 +81,7 @@ TESTED on Win 10: Python 3.7.2, requests 2.21.0, pillow 8.1.0
 
 # Good to know
 
+* Error "no module named PIL"? Remove the "PIL" library before instaling the "Pillow" library. [info](https://pillow.readthedocs.io/en/stable/installation.html) (thanks José Rico!)
 * The script caches all downloaded images in the script folder. If needed later it won’t have to download them again.
 * If you update an active background, you need to switch to another mode (like ‘Blur’) and back in order to see the changes. 
 * When pulling a list of call participants, it will ignore users with a generic ‘email provider’ domain like hotmail.com, gmail.com, yahoo.com
