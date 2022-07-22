@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/DJF3/Webex-Virtual-Background-Logo)
 # Webex-Virtual-Background-Logo
 Use this script to 'insert' content into a virtual background:
 - insert your customers logo in your virtual background
